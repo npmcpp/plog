@@ -1,0 +1,19 @@
+{
+  "name": "plog",
+  "version": "1.1.2",
+  "description": "Plog - portable, simple and extensible C++ logging library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmcpp/plog.git"
+  },
+  "author": "Sergey Podobry",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/npmcpp/plog/issues"
+  },
+  "homepage": "https://github.com/npmcpp/plog#readme"
+}
